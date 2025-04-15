@@ -56,10 +56,10 @@ def extract_section(text, pattern, split_entries=False):
     return content
 
 
-pdf_path = 'resume/Ashish.pdf'
+pdf_path = 'resume/1740227312291.pdf'
 json_output = parse_resume(pdf_path)
 
 
 print(json_output)
-with open('resume_structured.json', 'w') as f:
+with open('output/resume_structured.json', 'w') as f:
     f.write(json_output)
