@@ -1,0 +1,32 @@
+{
+    "personal_info": {
+        "name": "Ashish Y G",
+        "email": "ashishyg9@gmail.com",
+        "phone": "+91 9986754912"
+    },
+    "experience": [
+        "Experience CodeBlaze Hackathon Sahyadri Engineering College \u2022 Collaborated in a team of four during a 20-hour Hackathon. HackToFuture St Joseph\u2019s Engineering College \u2022 Collaborated in a team of three during a 24-hour Hackathon."
+    ],
+    "skills": [
+        "Technical Skills Languages: Python",
+        "C/C++",
+        "SQL (Postgres)",
+        "Supabase",
+        "JavaScript",
+        "HTML/CSS Frameworks: React",
+        "Node.js",
+        "Flask Developer Tools: Git",
+        "VS Code",
+        "Visual Studio Libraries: pandas Projects CivicsSift",
+        "Python",
+        "Flask",
+        "HTML",
+        "CSS",
+        "Supabase Dec 2023 - Jan 2024",
+        "Developed a full-stack web application using with Flask and Supabase with HTML/CSS as the frontend",
+        "Used Supabase (NoSQL) database for storing the user details",
+        "Provides a whole catalog of different schemes available as per user\u2019s need",
+        "Used Jinja Templating to access scheme data from the database Internships N/A"
+    ],
+    "projects": "Projects CivicsSift | Python, Flask, HTML, CSS, Supabase Dec 2023 - Jan 2024 \u2022 Developed a full-stack web application using with Flask and Supabase with HTML/CSS as the frontend \u2022 Used Supabase (NoSQL) database for storing the user details \u2022 Provides a whole catalog of different schemes available as per user\u2019s need \u2022 Used Jinja Templating to access scheme data from the database Internships N/A"
+}
